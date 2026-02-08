@@ -10,6 +10,8 @@ Capture referrals → Auto-score risk → Track cases to resolution — all offl
 ![PWA](https://img.shields.io/badge/PWA-offline%20ready-purple)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
+🔗 **Live App:** [caseflowuk.vercel.app](https://caseflowuk.vercel.app)
+
 ---
 
 ## ✨ What It Does
